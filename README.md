@@ -1,5 +1,5 @@
 # How to Create Subfolders, Move Files and Archive [PowerShell]
-This code snippet helps to Create Subfolders, Move Files and Archive
+This code snippet automates subfolder creation, moving files and archival unsing Powershell script.
 
 Summary:
 This code segment aims to achieve the below scenario.
